@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="day_1_1/day_1_1.fsproj" />
+  <Project Path="day_1_2/day_1_2.fsproj" />
+  <Project Path="day_2_1/day_2_1.fsproj" />
+  <Project Path="day_2_2/day_2_2.fsproj" Id="100d0534-9027-4db6-a3fc-666ae2be4705" />
+</Solution>
