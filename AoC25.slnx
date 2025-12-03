@@ -3,4 +3,6 @@
   <Project Path="day_1_2/day_1_2.fsproj" />
   <Project Path="day_2_1/day_2_1.fsproj" />
   <Project Path="day_2_2/day_2_2.fsproj" Id="100d0534-9027-4db6-a3fc-666ae2be4705" />
+  <Project Path="day_3_1/day_3_1.fsproj" Id="5c6df76b-0f4f-4694-97ce-fe96d3af9ede" />
+  <Project Path="day_3_2/day_3_2.fsproj" Id="2121f760-c32d-4386-9ed1-05f2d878b612" />
 </Solution>
