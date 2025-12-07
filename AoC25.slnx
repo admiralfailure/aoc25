@@ -9,4 +9,6 @@
   <Project Path="day_4_2/day_4_2.fsproj" Id="e2f338f2-1cc1-4d85-8fdd-0927f6ee076d" />
   <Project Path="day_5_1/day_5_1.fsproj" Id="7e5fe243-3a3b-4b14-83df-9b61e55dec4b" />
   <Project Path="day_5_2/day_5_2.fsproj" Id="2d61712f-eb28-45aa-a1fa-8f6603157f56" />
+  <Project Path="day_6_1/day_6_1.fsproj" />
+  <Project Path="day_6_2/day_6_2.fsproj" Id="58e9db76-8463-42a4-8f8d-b2487cd97fb5" />
 </Solution>
