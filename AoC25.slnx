@@ -1,4 +1,8 @@
 <Solution>
+  <Project Path="day_10_1/day_10_1.fsproj" Id="f39faa0b-37c8-4914-a7d5-be05d584ceb0" />
+  <Project Path="day_10_2/day_10_2.fsproj" Id="c16cda80-52ed-42a4-a39c-a2c28762311c" />
+  <Project Path="day_11_1/day_11_1.fsproj" Id="17bf3bfe-bda5-43f6-a855-b683924cb9fd" />
+  <Project Path="day_11_2/day_11_2.fsproj" Id="5524d7db-eb7c-4580-bc7f-28299071f8fa" />
   <Project Path="day_1_1/day_1_1.fsproj" />
   <Project Path="day_1_2/day_1_2.fsproj" />
   <Project Path="day_2_1/day_2_1.fsproj" />
@@ -15,4 +19,6 @@
   <Project Path="day_7_2/day_7_2.fsproj" Id="13086f09-ce62-4fd1-a24d-ef8ffb1062c5" />
   <Project Path="day_8_1/day_8_1.fsproj" Id="372412fc-d888-4894-8dd9-72465f8414b9" />
   <Project Path="day_8_2/day_8_2.fsproj" Id="b13fe16f-2e4b-4c5a-91b0-02677834c136" />
+  <Project Path="day_9_1/day_9_1.fsproj" Id="fda47d30-17a7-4f14-b00d-ed18f0257c05" />
+  <Project Path="day_9_2/day_9_2.fsproj" Id="0d631da4-1bdc-47e2-8859-d2fa5deeefbb" />
 </Solution>
